@@ -156,7 +156,24 @@ def transform_to_silver(df):
             F.col("customer_id").isNotNull() &
             F.col("unit_price").isNotNull()
         )
+# -------------------------------------------------------------------------
+    # 4b. Filter out return transactions (negative quantity)
+    # Returns are logged separately — not deleted from source
+    # but excluded from sales analytics
+    # -------------------------------------------------------------------------
+    returns_df = df.filter(F.col("quantity") < 0)
+    logger.info(f"Returns identified: {returns_df.count()} rows separated.")
+    df = df.filter(F.col("quantity") > 0)
 
+    # -------------------------------------------------------------------------
+    # 4c. Filter out zero or null unit_price
+    # Cannot calculate order value without a valid price
+    # -------------------------------------------------------------------------
+    df = df.filter(
+        F.col("unit_price").isNotNull() &
+        (F.col("unit_price") > 0)
+    )
+    logger.info(f"After price filter: {df.count()} rows remaining.")
     # -------------------------------------------------------------------------
     # 5. Derive business metrics
     # total_order_value = quantity × unit_price × (1 - discount_pct / 100)
