@@ -1,0 +1,102 @@
+order_id,customer_id,product_id,product_name,category,quantity,unit_price,discount_pct,order_date,store_region,payment_method,status
+ORD-1001,CUST-201,PROD-501,Running Shoes,Footwear,2,89.99,10,2024-01-05,South,Credit Card,Completed
+ORD-1002,CUST-312,PROD-502,Yoga Mat,Sports,1,34.99,,2024-01-06,North,UPI,Completed
+ORD-1003,CUST-415,PROD-503,Wireless Headphones,Electronics,1,149.99,5,06-01-2024,East,Debit Card,Completed
+ORD-1004,CUST-201,PROD-504,Water Bottle,Sports,3,19.99,0,2024-01-07,South,Credit Card,Completed
+ORD-1005,CUST-520,PROD-505,Laptop Bag,Accessories,1,59.99,,2024-01-07,West,Net Banking,Completed
+ORD-1006,CUST-631,PROD-501,Running Shoes,Footwear,1,89.99,10,2024-01-08,,Credit Card,Completed
+ORD-1007,CUST-712,PROD-506,Smartwatch,Electronics,1,199.99,8,2024-01-09,North,Credit Card,Completed
+ORD-1008,CUST-415,PROD-507,Protein Powder,Health,2,44.99,0,09-01-2024,East,Debit Card,Completed
+ORD-1009,CUST-820,PROD-508,Desk Lamp,Home,1,29.99,,2024-01-10,South,UPI,Completed
+ORD-1010,CUST-201,PROD-503,Wireless Headphones,Electronics,1,149.99,5,2024-01-10,South,Credit Card,Completed
+ORD-1001,CUST-201,PROD-501,Running Shoes,Footwear,2,89.99,10,2024-01-05,South,Credit Card,Completed
+ORD-1011,CUST-935,PROD-509,Resistance Bands,Sports,2,24.99,0,2024-01-11,West,Net Banking,Completed
+ORD-1012,CUST-312,PROD-510,Air Purifier,Home,1,129.99,12,2024-01-12,North,Credit Card,Completed
+ORD-1013,CUST-1040,PROD-504,Water Bottle,Sports,4,19.99,0,12-01-2024,,Debit Card,Completed
+ORD-1014,CUST-631,PROD-511,Bluetooth Speaker,Electronics,1,79.99,0,2024-01-13,East,UPI,Completed
+ORD-1015,CUST-712,PROD-512,Running Shorts,Footwear,2,34.99,,2024-01-14,North,Credit Card,Completed
+ORD-1016,CUST-520,PROD-507,Protein Powder,Health,1,44.99,5,2024-01-15,West,Net Banking,Completed
+ORD-1017,CUST-820,PROD-513,Foam Roller,Sports,1,39.99,0,2024-01-15,South,Credit Card,Completed
+ORD-1018,CUST-415,PROD-514,Standing Desk,Home,1,349.99,15,2024-01-16,East,Debit Card,Completed
+ORD-1019,CUST-1140,PROD-506,Smartwatch,Electronics,2,199.99,8,16-01-2024,North,Credit Card,Completed
+ORD-1020,CUST-935,PROD-505,Laptop Bag,Accessories,1,59.99,,2024-01-17,West,UPI,Completed
+ORD-1021,CUST-201,PROD-515,Cycling Gloves,Accessories,1,22.99,0,2024-01-18,South,Credit Card,Completed
+ORD-1022,CUST-312,PROD-503,Wireless Headphones,Electronics,1,149.99,5,2024-01-19,North,Net Banking,Completed
+ORD-1023,CUST-1240,PROD-516,Kettlebell,Sports,1,69.99,0,2024-01-20,,Debit Card,Completed
+ORD-1024,CUST-631,PROD-508,Desk Lamp,Home,2,29.99,,2024-01-20,East,UPI,Completed
+ORD-1025,CUST-712,PROD-517,Whey Protein,Health,1,54.99,10,2024-01-21,North,Credit Card,Completed
+ORD-1026,CUST-820,PROD-501,Running Shoes,Footwear,1,89.99,0,21-01-2024,South,Debit Card,Completed
+ORD-1027,CUST-415,PROD-518,Noise Cancelling Earbuds,Electronics,1,119.99,7,2024-01-22,East,Credit Card,Completed
+ORD-1028,CUST-1040,PROD-509,Resistance Bands,Sports,3,24.99,0,2024-01-23,West,Net Banking,Completed
+ORD-1029,CUST-520,PROD-519,Yoga Block,Sports,2,14.99,,2024-01-24,West,UPI,Completed
+ORD-1030,CUST-935,PROD-510,Air Purifier,Home,1,129.99,12,2024-01-25,West,Credit Card,Completed
+ORD-1031,CUST-1140,PROD-511,Bluetooth Speaker,Electronics,2,79.99,0,2024-01-26,North,Debit Card,Completed
+ORD-1032,CUST-201,PROD-520,Gym Bag,Accessories,1,49.99,5,26-01-2024,South,Credit Card,Completed
+ORD-1033,CUST-312,PROD-515,Cycling Gloves,Accessories,2,22.99,0,2024-01-27,North,Net Banking,Completed
+ORD-1034,CUST-631,PROD-502,Yoga Mat,Sports,1,34.99,,2024-01-28,East,UPI,Completed
+ORD-1035,CUST-1240,PROD-506,Smartwatch,Electronics,1,199.99,8,2024-01-29,,Credit Card,Completed
+ORD-1036,CUST-820,PROD-514,Standing Desk,Home,1,349.99,15,2024-01-30,South,Debit Card,Completed
+ORD-1037,CUST-712,PROD-517,Whey Protein,Health,2,54.99,10,2024-01-31,North,Credit Card,Completed
+ORD-1038,CUST-415,PROD-512,Running Shorts,Footwear,3,34.99,0,2024-02-01,East,Net Banking,Completed
+ORD-1039,CUST-520,PROD-513,Foam Roller,Sports,1,39.99,,2024-02-02,West,UPI,Completed
+ORD-1040,CUST-1040,PROD-518,Noise Cancelling Earbuds,Electronics,1,119.99,7,02-02-2024,West,Credit Card,Completed
+ORD-1041,CUST-935,PROD-516,Kettlebell,Sports,2,69.99,0,2024-02-03,West,Debit Card,Completed
+ORD-1042,CUST-1140,PROD-519,Yoga Block,Sports,4,14.99,0,2024-02-04,North,Net Banking,Completed
+ORD-1043,CUST-201,PROD-507,Protein Powder,Health,1,44.99,5,2024-02-05,South,Credit Card,Completed
+ORD-1044,CUST-631,PROD-520,Gym Bag,Accessories,2,49.99,,2024-02-06,East,UPI,Completed
+ORD-1045,CUST-312,PROD-504,Water Bottle,Sports,5,19.99,0,2024-02-07,North,Debit Card,Completed
+ORD-1046,CUST-1240,PROD-503,Wireless Headphones,Electronics,1,149.99,5,07-02-2024,,Credit Card,Completed
+ORD-1047,CUST-820,PROD-501,Running Shoes,Footwear,2,89.99,10,2024-02-08,South,Net Banking,Completed
+ORD-1048,CUST-712,PROD-508,Desk Lamp,Home,1,29.99,0,2024-02-09,North,Credit Card,Completed
+ORD-1049,CUST-415,PROD-511,Bluetooth Speaker,Electronics,1,79.99,,2024-02-10,East,Debit Card,Completed
+ORD-1050,CUST-520,PROD-514,Standing Desk,Home,1,349.99,15,2024-02-10,West,Credit Card,Completed
+ORD-1051,CUST-1040,PROD-505,Laptop Bag,Accessories,2,59.99,0,2024-02-11,West,UPI,Completed
+ORD-1052,CUST-935,PROD-502,Yoga Mat,Sports,1,34.99,,11-02-2024,West,Net Banking,Completed
+ORD-1053,CUST-1140,PROD-513,Foam Roller,Sports,2,39.99,0,2024-02-12,North,Credit Card,Completed
+ORD-1054,CUST-201,PROD-516,Kettlebell,Sports,1,69.99,5,2024-02-13,South,Debit Card,Completed
+ORD-1055,CUST-631,PROD-517,Whey Protein,Health,2,54.99,10,2024-02-14,East,Credit Card,Completed
+ORD-1056,CUST-312,PROD-518,Noise Cancelling Earbuds,Electronics,1,119.99,7,2024-02-15,North,UPI,Completed
+ORD-1057,CUST-1240,PROD-519,Yoga Block,Sports,3,14.99,,2024-02-16,,Debit Card,Completed
+ORD-1058,CUST-820,PROD-506,Smartwatch,Electronics,1,199.99,8,2024-02-17,South,Credit Card,Completed
+ORD-1059,CUST-712,PROD-520,Gym Bag,Accessories,1,49.99,0,17-02-2024,North,Net Banking,Completed
+ORD-1060,CUST-415,PROD-509,Resistance Bands,Sports,2,24.99,,2024-02-18,East,UPI,Completed
+ORD-1061,CUST-520,PROD-510,Air Purifier,Home,1,129.99,12,2024-02-19,West,Credit Card,Completed
+ORD-1062,CUST-1040,PROD-515,Cycling Gloves,Accessories,3,22.99,0,2024-02-20,West,Debit Card,Completed
+ORD-1063,CUST-935,PROD-501,Running Shoes,Footwear,1,89.99,10,20-02-2024,West,Credit Card,Completed
+ORD-1064,CUST-1140,PROD-507,Protein Powder,Health,2,44.99,5,2024-02-21,North,Net Banking,Completed
+ORD-1065,CUST-201,PROD-512,Running Shorts,Footwear,2,34.99,0,2024-02-22,South,Credit Card,Completed
+ORD-1066,CUST-631,PROD-503,Wireless Headphones,Electronics,1,149.99,,2024-02-23,East,UPI,Completed
+ORD-1067,CUST-312,PROD-514,Standing Desk,Home,1,349.99,15,2024-02-24,North,Debit Card,Completed
+ORD-1068,CUST-1240,PROD-508,Desk Lamp,Home,2,29.99,0,24-02-2024,,Credit Card,Completed
+ORD-1069,CUST-820,PROD-504,Water Bottle,Sports,3,19.99,,2024-02-25,South,Net Banking,Completed
+ORD-1070,CUST-712,PROD-511,Bluetooth Speaker,Electronics,2,79.99,0,2024-02-26,North,Credit Card,Completed
+ORD-1071,CUST-415,PROD-502,Yoga Mat,Sports,1,34.99,5,2024-02-27,East,Debit Card,Completed
+ORD-1072,CUST-520,PROD-516,Kettlebell,Sports,1,69.99,0,27-02-2024,West,UPI,Completed
+ORD-1073,CUST-1040,PROD-517,Whey Protein,Health,1,54.99,10,2024-02-28,West,Credit Card,Completed
+ORD-1074,CUST-935,PROD-518,Noise Cancelling Earbuds,Electronics,1,119.99,7,2024-02-29,West,Net Banking,Completed
+ORD-1075,CUST-1140,PROD-519,Yoga Block,Sports,2,14.99,,2024-03-01,North,Debit Card,Completed
+ORD-1076,CUST-201,PROD-520,Gym Bag,Accessories,1,49.99,5,01-03-2024,South,Credit Card,Completed
+ORD-1077,CUST-631,PROD-505,Laptop Bag,Accessories,1,59.99,0,2024-03-02,East,UPI,Completed
+ORD-1078,CUST-312,PROD-506,Smartwatch,Electronics,1,199.99,8,2024-03-03,North,Credit Card,Completed
+ORD-1079,CUST-1240,PROD-513,Foam Roller,Sports,2,39.99,,2024-03-04,,Debit Card,Completed
+ORD-1080,CUST-820,PROD-509,Resistance Bands,Sports,3,24.99,0,2024-03-05,South,Net Banking,Completed
+ORD-1081,CUST-712,PROD-510,Air Purifier,Home,1,129.99,12,05-03-2024,North,Credit Card,Completed
+ORD-1082,CUST-415,PROD-515,Cycling Gloves,Accessories,2,22.99,0,2024-03-06,East,UPI,Completed
+ORD-1083,CUST-520,PROD-501,Running Shoes,Footwear,1,89.99,10,2024-03-07,West,Debit Card,Completed
+ORD-1084,CUST-1040,PROD-507,Protein Powder,Health,2,44.99,5,2024-03-08,West,Credit Card,Completed
+ORD-1085,CUST-935,PROD-512,Running Shorts,Footwear,2,34.99,,08-03-2024,West,Net Banking,Completed
+ORD-1086,CUST-1140,PROD-503,Wireless Headphones,Electronics,1,149.99,5,2024-03-09,North,Credit Card,Completed
+ORD-1087,CUST-201,PROD-514,Standing Desk,Home,1,349.99,15,2024-03-10,South,UPI,Completed
+ORD-1088,CUST-631,PROD-508,Desk Lamp,Home,1,29.99,0,2024-03-11,East,Debit Card,Completed
+ORD-1089,CUST-312,PROD-504,Water Bottle,Sports,4,19.99,,2024-03-12,North,Credit Card,Completed
+ORD-1090,CUST-1240,PROD-511,Bluetooth Speaker,Electronics,2,79.99,0,12-03-2024,,Net Banking,Completed
+ORD-1091,CUST-820,PROD-502,Yoga Mat,Sports,1,34.99,5,2024-03-13,South,UPI,Completed
+ORD-1092,CUST-712,PROD-516,Kettlebell,Sports,1,69.99,0,2024-03-14,North,Credit Card,Completed
+ORD-1093,CUST-415,PROD-517,Whey Protein,Health,2,54.99,10,2024-03-15,East,Debit Card,Completed
+ORD-1094,CUST-520,PROD-518,Noise Cancelling Earbuds,Electronics,1,119.99,7,15-03-2024,West,Credit Card,Completed
+ORD-1095,CUST-1040,PROD-519,Yoga Block,Sports,3,14.99,,2024-03-16,West,Net Banking,Completed
+ORD-1096,CUST-935,PROD-520,Gym Bag,Accessories,2,49.99,0,2024-03-17,West,UPI,Completed
+ORD-1097,CUST-1140,PROD-505,Laptop Bag,Accessories,1,59.99,5,2024-03-18,North,Credit Card,Completed
+ORD-1098,CUST-201,PROD-506,Smartwatch,Electronics,1,199.99,8,18-03-2024,South,Debit Card,Completed
+ORD-1099,CUST-631,PROD-513,Foam Roller,Sports,1,39.99,,2024-03-19,East,Credit Card,Completed
+ORD-1100,CUST-312,PROD-509,Resistance Bands,Sports,2,24.99,0,2024-03-20,North,Net Banking,Completed
