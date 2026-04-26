@@ -178,7 +178,7 @@ During development, the source CSV had more columns than the Bronze table — Sn
 **Sowmya D** —Data Engineer
 MSc Computer Science, Saint Leo University (2024–2025)
 
-[GitHub](https://github.com/sowmyad-de) | [LinkedIn](https://linkedin.com/in/sowmyad)
+[GitHub](https://github.com/sowmyad-de) | [LinkedIn]https://www.linkedin.com/in/sowmya-d-697040136/
 
 ---
 
