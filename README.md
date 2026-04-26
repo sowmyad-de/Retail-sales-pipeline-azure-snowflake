@@ -1,6 +1,6 @@
 # Retail Sales Data Pipeline — End-to-End Azure & Snowflake Project
 
-![Pipeline Architecture](docs/architecture.png)
+https://github.com/sowmyad-de/Retail-sales-pipeline-azure-snowflake
 
 A complete data engineering pipeline that ingests raw retail transaction data, applies data quality transformations using **Medallion Architecture**, and structures it into a **Star Schema** in Snowflake for business analytics.
 
